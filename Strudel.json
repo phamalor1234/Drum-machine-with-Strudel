@@ -1,5 +1,4 @@
 {
-  "_base": "https://raw.githubusercontent.com/phamalor1234/Drum-machine-with-Strudel/main",
-  "beatbox": ["J.J%20fad/Beatbox.wav"], 
+  "_base": "https://raw.githubusercontent.com/phamalor1234/Drum-machine-with-Strudel/main", 
   "kickdrum": ["808/808-kick_G_minor.wav"]
 }
